@@ -1,0 +1,1 @@
+# Local_AI_Ollama_Lab_Statement
